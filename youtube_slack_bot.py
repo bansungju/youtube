@@ -357,9 +357,8 @@ def main():
             # 첫 실행이거나 마지막 확인 이후의 영상인 경우
             is_new = False
             if last_check_time is None:
-                # 첫 실행: 최근 7일 이내 영상만 알림
                 time_diff = (now - published_at).total_seconds()
-                if time_diff <= 604800:  # 7일 = 604800초
+                if time_diff <= 3600:  #  1시간 = 3600초
                     is_new = True
             else:
                 last_check_dt = datetime.fromisoformat(last_check_time)
