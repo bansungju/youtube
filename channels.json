@@ -1,84 +1,22 @@
 {
   "channels": [
-    {
-      "name": "Stanford Online",
-      "channel_id": "UCBa5G_ESCn8Yd4vw5U-gIcg"
-    },
-    {
-      "name": "MIT OpenCourseWare",
-      "channel_id": "UCEBb1b_L6zDS3xTUrIALZOw"
-    },
-    {
-      "name": "Google DeepMind",
-      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A"
-    },
-    {
-      "name": "Colorado Times",
-      "channel_id": "UCmj8FKNUcO8Ssd3YeqVu2EA"
-    },
-    {
-      "name": "OpenAI",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
-    },
-    {
-      "name": "Andrej Karpathy",
-      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"
-    },
-    {
-      "name": "DeepLearning.AI",
-      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w"
-    },
-    {
-      "name": "fast.ai (Jeremy Howard)",
-      "channel_id": "UCX7Y2qWriXpqocG97SFW2OQ"
-    },
-    {
-      "name": "freeCodeCamp.org",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ"
-    },
-    {
-      "name": "Two Minute Papers",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
-    },
-    {
-      "name": "Yannic Kilcher",
-      "channel_id": "UCZHmQk67mN7iG4fY8GfhtPA"
-    },
-    {
-      "name": "AI Explained",
-      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw"
-    },
-    {
-      "name": "The AI Advantage",
-      "channel_id": "UCHmPMK5xzc3bY8Wy5k3BVUQ"
-    },
-    {
-      "name": "Matt Wolfe",
-      "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ"
-    },
-    {
-      "name": "Fireship",
-      "channel_id": "UCsBjURrPoezykLs9EqgamOA"
-    },
-    {
-      "name": "3Blue1Brown",
-      "channel_id": "UCYO_jab_esuFRV4b17AJtAw"
-    },
-    {
-      "name": "StatQuest",
-      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw"
-    },
-    {
-      "name": "Lex Fridman",
-      "channel_id": "UCSHZKyawb77ixDdsGog4iWA"
-    },
-    {
-      "name": "Machine Learning Street Talk",
-      "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ"
-    },
-    {
-      "name": "Microsoft Research",
-      "channel_id": "UCCb9_Kn8F_Opb3UCGm-lILQ"
-    }
+    {"name": "Stanford Online", ...},
+    {"name": "MIT OpenCourseWare", ...},
+    {"name": "Google DeepMind", ...},
+    {"name": "Colorado Times", ...},
+    {"name": "OpenAI", ...},
+    {"name": "Andrej Karpathy", ...},
+    {"name": "DeepLearning.AI", ...},
+    {"name": "fast.ai (Jeremy Howard)", ...},
+    {"name": "freeCodeCamp.org", ...},
+    {"name": "Two Minute Papers", ...},
+    {"name": "AI Explained", ...},
+    {"name": "Matt Wolfe", ...},
+    {"name": "Fireship", ...},
+    {"name": "3Blue1Brown", ...},
+    {"name": "StatQuest", ...},
+    {"name": "Lex Fridman", ...},
+    {"name": "Machine Learning Street Talk", ...},
+    {"name": "Microsoft Research", ...}
   ]
 }
