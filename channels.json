@@ -71,6 +71,62 @@
     {
       "name": "Microsoft Research",
       "channel_id": "UCCb9_Kn8F_Opb3UCGm-lILQ"
+    },
+    {
+      "name": "MIT CSAIL",
+      "channel_id": "UCYs2iUgksAhgoidZwEAimmg"
+    },
+    {
+      "name": "NVIDIA",
+      "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+    },
+    {
+      "name": "Yannic Kilcher",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew"
+    },
+    {
+      "name": "The AI Advantage",
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ"
+    },
+    {
+      "name": "1littlecoder",
+      "channel_id": "UCpV_X0VrL8-jg3t6wYGS-1g"
+    },
+    {
+      "name": "Discover AI / code4AI",
+      "channel_id": "UCfOvNb3xj28SNqPQ_JIbumg"
+    },
+    {
+      "name": "Sentdex",
+      "channel_id": "UCfzlCWGWYyIQ0aLC5w48gBQ"
+    },
+    {
+      "name": "Krish Naik",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig"
+    },
+    {
+      "name": "CodeBasics",
+      "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ"
+    },
+    {
+      "name": "쿠키(Kooky AI)",
+      "channel_id": "UChLHvrqxYRGFdHCVEReD0GQ"
+    },
+    {
+      "name": "Futurepedia",
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw"
+    },
+    {
+      "name": "Khan Academy",
+      "channel_id": "UC4a-Gbdw7vOaccHmFo40b9g"
+    },
+    {
+      "name": "No Code MBA",
+      "channel_id": "UCU0RB5iVFW3LbmshiC_Kf-Q"
+    },
+    {
+      "name": "NocodeHackers",
+      "channel_id": "UCB-H7GA7yyHbrlWvOwoUcSQ"
     }
   ]
 }
