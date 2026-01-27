@@ -2,10 +2,7 @@ name: YouTube → Slack 알림
 
 on:
   schedule:
-    # 1시간마다 실행 (UTC 기준)
     - cron: '0 * * * *'
-
-  # 수동 실행 가능
   workflow_dispatch:
 
 jobs:
@@ -29,9 +26,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: last_checked.json
-          key: last-checked-${{ github.run_id }}
+          key: youtube-last-checked-v1
           restore-keys: |
-            last-checked-
+            youtube-last-checked-
 
       - name: YouTube 알림 봇 실행
         env:
@@ -46,4 +43,4 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: last_checked.json
-          key: last-checked-${{ github.run_id }}
+          key: youtube-last-checked-v1
