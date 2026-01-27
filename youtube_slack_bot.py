@@ -358,7 +358,7 @@ def main():
             is_new = False
             if last_check_time is None:
                 time_diff = (now - published_at).total_seconds()
-                if time_diff <= 3600:  #  1시간 = 3600초
+                if time_diff <= 172800:  # 48시간 = 172800초 (테스트용)
                     is_new = True
             else:
                 last_check_dt = datetime.fromisoformat(last_check_time)
