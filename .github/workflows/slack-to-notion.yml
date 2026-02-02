@@ -2,7 +2,7 @@ name: Slack to Notion Sync
 
 on:
   schedule:
-    - cron: '10 * * * *'
+    - cron: '10 */6 * * *'  # 6시간마다 (00:10, 06:10, 12:10, 18:10 UTC)
   workflow_dispatch:
 
 jobs:
