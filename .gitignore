@@ -1,0 +1,23 @@
+# 환경 변수 (민감 정보)
+.env
+
+# 마지막 확인 시간 (로컬)
+last_checked.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

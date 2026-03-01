@@ -1,0 +1,180 @@
+{
+  "channels": [
+    {
+      "name": "Stanford Online",
+      "channel_id": "UCBa5G_ESCn8Yd4vw5U-gIcg"
+    },
+    {
+      "name": "MIT OpenCourseWare",
+      "channel_id": "UCEBb1b_L6zDS3xTUrIALZOw"
+    },
+    {
+      "name": "Google DeepMind",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A"
+    },
+    {
+      "name": "Colorado Times",
+      "channel_id": "UCmj8FKNUcO8Ssd3YeqVu2EA"
+    },
+    {
+      "name": "OpenAI",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A"
+    },
+    {
+      "name": "Andrej Karpathy",
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ"
+    },
+    {
+      "name": "DeepLearning.AI",
+      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w"
+    },
+    {
+      "name": "fast.ai (Jeremy Howard)",
+      "channel_id": "UCX7Y2qWriXpqocG97SFW2OQ"
+    },
+    {
+      "name": "freeCodeCamp.org",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ"
+    },
+    {
+      "name": "Julian Goldie SEO",
+      "channel_id": "UCGpsgNbzdF7BECCVbB1COHw"
+    },
+    {
+      "name": "Alex Finn",
+      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg"
+    },
+    {
+      "name": "AI LABS",
+      "channel_id": "UCelfWQr9sXVMTvBzviPGlFw"
+    },
+    {
+      "name": "Two Minute Papers",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg"
+    },
+    {
+      "name": "AI Explained",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw"
+    },
+    {
+      "name": "Matt Wolfe",
+      "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ"
+    },
+    {
+      "name": "Fireship",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA"
+    },
+    {
+      "name": "3Blue1Brown",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw"
+    },
+    {
+      "name": "StatQuest",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw"
+    },
+    {
+      "name": "Lex Fridman",
+      "channel_id": "UCSHZKyawb77ixDdsGog4iWA"
+    },
+    {
+      "name": "Machine Learning Street Talk",
+      "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ"
+    },
+    {
+      "name": "Microsoft Research",
+      "channel_id": "UCCb9_Kn8F_Opb3UCGm-lILQ"
+    },
+    {
+      "name": "MIT CSAIL",
+      "channel_id": "UCYs2iUgksAhgoidZwEAimmg"
+    },
+    {
+      "name": "NVIDIA",
+      "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g"
+    },
+    {
+      "name": "Yannic Kilcher",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew"
+    },
+    {
+      "name": "The AI Advantage",
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ"
+    },
+    {
+      "name": "1littlecoder",
+      "channel_id": "UCpV_X0VrL8-jg3t6wYGS-1g"
+    },
+    {
+      "name": "Discover AI / code4AI",
+      "channel_id": "UCfOvNb3xj28SNqPQ_JIbumg"
+    },
+    {
+      "name": "Sentdex",
+      "channel_id": "UCfzlCWGWYyIQ0aLC5w48gBQ"
+    },
+    {
+      "name": "Krish Naik",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig"
+    },
+    {
+      "name": "CodeBasics",
+      "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ"
+    },
+    {
+      "name": "쿠키(Kooky AI)",
+      "channel_id": "UChLHvrqxYRGFdHCVEReD0GQ"
+    },
+    {
+      "name": "Futurepedia",
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw"
+    },
+    {
+      "name": "Khan Academy",
+      "channel_id": "UC4a-Gbdw7vOaccHmFo40b9g"
+    },
+    {
+      "name": "No Code MBA",
+      "channel_id": "UCU0RB5iVFW3LbmshiC_Kf-Q"
+    },
+    {
+      "name": "NocodeHackers",
+      "channel_id": "UCB-H7GA7yyHbrlWvOwoUcSQ"
+    },
+    {
+      "name": "Jeff Su",
+      "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA"
+    },
+    {
+      "name": "The AI Daily Brief",
+      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA"
+    },
+    {
+      "name": "365 Data Science",
+      "channel_id": "UCEBpSZhI1X8WaP-kY_2LLcg"
+    },
+    {
+      "name": "Next-Gen AI Tutorials",
+      "channel_id": "UClWUzCG3kSrmAE8YZwjSdSA"
+    },
+    {
+      "name": "조승연의 탐구생활",
+      "channel_id": "UCvW8norVMTLt7QN-s2pS4Bw"
+    },
+    {
+      "name": "Tech With Tim",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg"
+    },
+    {
+      "name": "Nate Herk | AI Automation",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA"
+    },
+    {
+      "name": "Learn AI with Skill Course",
+      "channel_id": "UCKU3N68Fo2B0RBL8LrqGeUA"
+    },
+    {
+      "name": "Really Easy AI - Tutorials for Everyone",
+      "channel_id": "UC35ZpwldGw7ZJ5R-2sLijzw"
+    }
+  ]
+}
